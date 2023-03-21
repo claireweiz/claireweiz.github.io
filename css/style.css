@@ -163,6 +163,9 @@ nav{
     padding: 50px 5% 0px 5%;
     position: relative;
 }
+.about-model img{
+        height: 600px;
+    }
 .about-text{
     font-family: calibri;
     width: 50%;
