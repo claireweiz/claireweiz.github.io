@@ -57,8 +57,10 @@ nav{
     color: #292929;
 }
 .logo{
-    width: 200px;
-    height: 200px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #292929;
+    font-family: Poppins;
 }
 .menu li a:hover,
 .menu li a.active{
