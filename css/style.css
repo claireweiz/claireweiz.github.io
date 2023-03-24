@@ -14,7 +14,7 @@ a{
     text-decoration: none;
 }
 .toggle{
-  display: none;
+    display: none;
 }
 #main{
     padding: 30px 50px;
@@ -23,6 +23,10 @@ a{
     height: 100vh;
     box-sizing: border-box;
     background-color: #edf1fd;
+}
+#main h1{
+    font-family: Brush Script MT;
+    font-size: 50px;
 }
 
 /* Navigation */
