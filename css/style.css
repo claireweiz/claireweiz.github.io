@@ -243,7 +243,7 @@ overflow: hidden;
 text-overflow: ellipsis;
 }
 .s-b-text a:hover{
-color:rgba(255,255,255,0.50)
+color:#c57b89
 }
 .s-type{
 font-family: calibri;
