@@ -148,13 +148,9 @@ nav{
     font-family: calibri;
     width: 50%;
 }
-.about-text h1{
-    font-size: 5rem;
-    color:#c57b89;
-}
 .about-text h2{
     font-size: 3rem;
-    color:#343232;
+    color:#c57b89;
     font-weight: 400;
 }
 .about-text h1,h2{
