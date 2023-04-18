@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-[Link Here](claireweiz.github.io)
+[Link Here](https://claireweiz.github.io)
 
 
 <h2>Description</h2>
