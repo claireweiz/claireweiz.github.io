@@ -7,6 +7,7 @@
 My personal website has three parts: landing page, about me, and portfolio. Simple as it is, which displays who I am and what I do.
 
 <h2>Skills & Tools</h2>
+
 * HTML
 * CSS
 
