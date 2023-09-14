@@ -4,7 +4,7 @@
 
 
 <h2>Description</h2>
-My personal website has three parts: landing page, about me, and portfolio. Simple as it is, which displays who I am and what I do.
+My personal website, including landing page, about me, and portfolio. Simple as it is, which displays what I do and who I am.
 
 <h2>Skills & Tools</h2>
 
@@ -12,4 +12,4 @@ My personal website has three parts: landing page, about me, and portfolio. Simp
 * CSS
 
 <h2>Thoughts</h2>
-This project took me two weeks to pick up my knowledge of HTML & CSS, setting up environment, learning Github and Git, to create my first personal website. So far ver.1 is finished. For ver.2 I want to adjust codes neater (use more Javascript or node.js), make responsive page layouts better, switch light/dark mode, maybe create contact form, etc.
+Spending two weeks learning HTML & CSS and put in practice, setting up environment, learning Github and Git, to create my first personal website. So far ver.1 is finished. Potential ver.2 ideas: updating responsive page layouts, switch light/dark mode, maybe create contact form, etc.
